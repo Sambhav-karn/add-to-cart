@@ -11,7 +11,7 @@ export default function Foot() {
               href="https://flowbite.com"
               src="https://www.onlinelogomaker.com/blog/wp-content/uploads/2017/06/shopping-online.jpg"
               alt="Flowbite Logo"
-              name="E-Com App"
+              name="Add To Cart"
             />
             <Footer.LinkGroup>
               <Footer.Link href="#">About</Footer.Link>

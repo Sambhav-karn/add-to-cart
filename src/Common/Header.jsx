@@ -9,7 +9,7 @@ export function Header() {
     <Navbar fluid rounded className="shadow-lg sticky top-0 bg-white z-30">
       <Navbar.Brand href="https://flowbite-react.com">
         
-        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">E-Com App</span>
+        <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">Add To Cart</span>
       </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse>
